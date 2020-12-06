@@ -29,7 +29,7 @@ services:
       - PGUSER=postgres
       - PGHOST=postgres
       - PGDATABASE=postgres
-      - PGPASSWORD=Bynes@160284
+      - PGPASSWORD=Bynes@160285
       - PGPORT=5432
   client:
     stdin_open: true
